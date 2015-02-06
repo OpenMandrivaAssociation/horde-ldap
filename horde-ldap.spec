@@ -5,7 +5,7 @@
 
 Name:          horde-ldap
 Version:       0.0.2
-Release:       %mkrel 4
+Release:       5
 Summary:       LDAP Utility Class
 License:       LGPL
 Group:         Networking/Mail
